@@ -1,8 +1,8 @@
 # Sleeper
-Hey There 👋,
+Hey there 👋,
 
 - I code in C++, C, C#, Java, Python 
-- I have been trying to make some projects to work on recently.
+- I've been trying to make some projects to work on recently.
 
 Contact me at [mansiv.alam1@gmail.com](url) 
 
